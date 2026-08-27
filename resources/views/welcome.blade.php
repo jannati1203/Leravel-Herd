@@ -72,6 +72,7 @@
                     <a href="#skills" class="hover:text-orange-500 dark:hover:text-orange-400 transition-colors">Skills</a>
                     <a href="#projects" class="hover:text-orange-500 dark:hover:text-orange-400 transition-colors">Projects</a>
                     <a href="#experience" class="hover:text-orange-500 dark:hover:text-orange-400 transition-colors">Experience</a>
+                    <a href="{{ route('services') }}" class="px-3.5 py-1.5 rounded-xl bg-orange-500/10 text-orange-600 dark:text-orange-400 border border-orange-500/20 hover:bg-orange-500 hover:text-white transition-all font-semibold">Resume & Services</a>
                     <a href="#contact" class="hover:text-orange-500 dark:hover:text-orange-400 transition-colors">Contact</a>
                 </nav>
 
