@@ -138,8 +138,8 @@
                         <div class="space-y-4">
                             <h1 class="text-4xl sm:text-6xl font-extrabold tracking-tight text-zinc-900 dark:text-white leading-[1.1]">
                                 Crafting High-Impact <br>
-                                <span class="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 via-amber-500 to-amber-600 dark:from-orange-400 dark:via-amber-300 dark:to-amber-500">
-                                    Web Experiences
+                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 via-amber-500 to-amber-600 dark:from-orange-400 dark:via-amber-300 dark:to-amber-500">
+                                    Web Developer
                                 </span>
                             </h1>
                             <p class="text-lg sm:text-xl text-zinc-600 dark:text-zinc-400 max-w-2xl font-normal leading-relaxed">
