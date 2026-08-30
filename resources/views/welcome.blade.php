@@ -144,8 +144,9 @@
                                 </span>
                             </h1>
                             <p class="text-lg sm:text-xl text-zinc-600 dark:text-zinc-400 max-w-2xl font-normal leading-relaxed">
-                                I am a Senior Full-Stack Engineer with 6+ years of expertise architecting scalable Laravel applications, real-time Livewire interfaces, dynamic APIs, and modern frontend ecosystems.
-                            </p>
+ A motivated and aspiring Full-Stack Developer with a strong foundation in Laravel, PHP, Livewire, API development, and modern frontend technologies. Experienced in developing responsive web applications through academic and personal projects, with a keen interest in building scalable, user-friendly solutions and continuously expanding technical expertise.
+                           </p>
+                        
                         </div>
 
                         <!-- CTA Buttons -->
